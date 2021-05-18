@@ -1,4 +1,4 @@
-# Urnik za naročanje pacijentov
+# Urnik za naročanje pacientov
 
 ## Kratek opis
 
